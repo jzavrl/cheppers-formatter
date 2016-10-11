@@ -1,0 +1,5 @@
+cheppers-table-formatter:
+  version: 1.x
+  css:
+    theme:
+      stylesheets/cheppers-table-formatter.css: {}
